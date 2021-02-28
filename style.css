@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+}
+.outline{
+    padding-inline: 12px;
+    background-color: rgb(230, 230, 230);
+    height: 1000px;
+    width: 700px;
+    margin: 0px auto;
+}
+p,ul{
+    font-size: 18px;
+}
+h2.outer{
+    text-align: right;
+}
